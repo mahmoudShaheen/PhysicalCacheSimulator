@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1453669947 source:c:\users\bogii\documents\codeblocks\cache simulator project\main.cpp
+	<iostream>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<bitset>
+
+1453653920 source:c:\users\bogii\documents\codeblocks\cache simulator project\resource.rc
+
+1453676355 source:c:\users\bogii\cse\college projects\cache simulator project backup\main.cpp
+	<iostream>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<bitset>
+
+1453653920 source:c:\users\bogii\cse\college projects\cache simulator project backup\resource.rc
+
